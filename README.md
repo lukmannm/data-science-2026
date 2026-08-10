@@ -28,6 +28,11 @@ Tujuan saya belajar Data Science adalah memahami cara mengolah dan menginterpret
 | Pertemuan 5 | Visualisasi Data — Dashboard Penguins | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukmannm/data-science-2026/blob/main/Pertemuan5_Lukman_240401010181.ipynb) |
 | Pertemuan 6 | Preprocessing untuk Machine Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukmannm/data-science-2026/blob/main/Pertemuan6_Lukman_240401010181.ipynb) |
 | Pertemuan 7 | Regresi Linear — Prediksi Gaji | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukmannm/data-science-2026/blob/main/Pertemuan7_Lukman_240401010181.ipynb) |
+| Pertemuan 9  | Klasifikasi Logistic Regression vs Decision Tree | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukmannm/data-science-2026/blob/main/Pertemuan9_Lukman_240401010181.ipynb)        |
+| Pertemuan 10 | Customer Churn Prediction dengan Random Forest   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukmannm/data-science-2026/blob/main/Pertemuan10_Lukman_240401010181.ipynb)                |
+| Pertemuan 11 | Segmentasi Pelanggan dengan K-Means              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukmannm/data-science-2026/blob/main/Pertemuan11_Lukman_240401010181.ipynb)                 |
+| Pertemuan 12 | Market Basket Analysis & Rekomendasi Produk      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukmannm/data-science-2026/blob/main/Pertemuan12_Lukman_240401010181.ipynb)                       |
+| Pertemuan 13 | Klasifikasi Non-Linear & Analisis Sentimen       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukmannm/data-science-2026/blob/main/Pertemuan13_Lukman_240401010181.ipynb) |
 
 ---
 
