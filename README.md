@@ -61,3 +61,7 @@ Klik badge **Open in Colab** pada tabel di atas untuk membuka dan menjalankan no
 
 Selama tujuh pertemuan, saya mempelajari alur kerja Data Science secara end-to-end mulai dari setup environment, eksplorasi data, data cleaning, visualisasi, hingga pemodelan machine learning. Pengalaman ini memberikan pemahaman bahwa kualitas dan kebersihan data adalah fondasi utama sebelum melakukan analisis apapun.
 
+
+## Kesimpulan Perjalanan Belajar (Pertemuan 9–13)
+
+Pada Pertemuan 9–13, saya mempelajari berbagai konsep Machine Learning dan Data Science, mulai dari klasifikasi, clustering, rekomendasi, hingga pengolahan data teks. Pembelajaran ini memberikan pemahaman tentang penerapan Machine Learning pada berbagai permasalahan nyata.
